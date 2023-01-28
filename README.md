@@ -28,11 +28,11 @@ Divergence function
 - error to signal ratio (ESR)
 
 Results 
-
 - Dry guitar (input) : 
-
+  https://github.com/samarth0898/NeuralAudioFXModel/blob/master/output/x_test.wav
 
 - Original output from Amp (oracle output) : 
-
+  https://github.com/samarth0898/NeuralAudioFXModel/blob/master/output/y_test.wav
 
 - Output from Neural VA model (estimated output): 
+  https://github.com/samarth0898/NeuralAudioFXModel/blob/master/output/y_pred.wav
