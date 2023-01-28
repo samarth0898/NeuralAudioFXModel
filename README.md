@@ -26,3 +26,13 @@ Gated Activation
 
 Divergence function 
 - error to signal ratio (ESR)
+
+Results 
+
+- Dry guitar (input) : 
+
+
+- Original output from Amp (oracle output) : 
+
+
+- Output from Neural VA model (estimated output): 
