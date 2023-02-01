@@ -5,8 +5,7 @@ Reference paper : Wright, A.; Damskägg, E.-P.; Juvela, L.; Välimäki, V. Real-
 
 
 ## Black Box Modeling 
-Black-box modelling is based on measuring the circuit’s response to some input signals, and creating a model which replicates the observed input-output mapping. Black-box models for VA modelling include block-oriented models, which are based on assumptions about the design of the modelled circuit [8–12]. model we proposed [23] for nonlinear cicuit black-box modelling, that was
-based on the WaveNet convolutional neural network
+Black-box modelling is based on measuring the circuit’s response to some input signals, and creating a model which replicates the observed input-output mapping. Black-box models for VA modelling include block-oriented models, which are based on assumptions about the design of the modelled circuit [8–12]. This blackbox model is based on the WaveNet convolutional neural network.
 
 Highlights about WaveNet
 
